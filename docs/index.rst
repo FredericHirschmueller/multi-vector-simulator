@@ -36,9 +36,9 @@ Multi-vector simulator
         :target: https://github.com/psf/black
         :alt: black linter
 
-The open_plan tool is an `oemof <https:/github.com/oemof>`__ -based Python package which aims at facilitating the modelling of multi-energy carriers energy systems in island or grid connected mode.
+The Multi-Vector Simulator (hereafter MVS) is an `oemof <https:/github.com/oemof>`__ -based Python package which aims at facilitating the modelling of multi-energy carriers energy systems in island or grid connected mode.
 
-The main goals of the MVS are
+The main goals of the open_plan tool are
 
 #. to minimize the production costs by determining the generating units' optimal output, which meets the total demand
 
